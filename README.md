@@ -1,0 +1,2 @@
+# Senators' tweets on digital privacy 
+This project was part of my doctoral dissertation. I looked at how the U.S. Senators talked about digital privacy on Twitter as opposed to on real life. I first downloaded all tweets sent by all the senators from the 113rd Congress. Two Senators from 114th might also have been included. Then, I processed the tweets with the help of R code above. Then I got my Ph.D., lol. Here is the link to my dissertation: https://digitalcommons.wayne.edu/oa_dissertations/1875/ 
